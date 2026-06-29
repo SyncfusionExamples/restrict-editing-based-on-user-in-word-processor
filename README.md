@@ -1,6 +1,6 @@
-# Restrict Editing Based on User in Word Processor 
+# Restrict Editing Based on User in JavaScript (ES6) DOCX Editor (Document Editor)
 
-This repository provides a working example of how to create and manage Word documents with user\-specific editable regions using the Syncfusion® Document Editor (a.k.a. Word Processor) component in a web application. It demonstrates how to protect documents with passwords, restrict editing to certain users, and enable secure collaboration—all without Microsoft Word or Office interop dependencies. 
+This repository provides a working example of how to create and manage Word documents with user\-specific editable regions using the [JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) (Document Editor) in a web application. It demonstrates how to protect documents with passwords, restrict editing to certain users, and enable secure collaboration—all without Microsoft Word or Office interop dependencies. 
 
 # Features 
 
@@ -13,15 +13,15 @@ This repository provides a working example of how to create and manage Word docu
 - No Microsoft Word or Office interop dependencies required
 
 # Blog referemce
-[Restrict Editing of Word Documents Based on User in a Web Application](https://www.syncfusion.com/blogs/post/restrict-editing-of-word-documents-based-on-user-in-a-web-application.aspx)
+[Restrict Editing of Word Documents Based on User in a Web Application](https://www.syncfusion.com/blogs/post/restrict-editing-of-word-documents-based-on-user-in-a-web-application.aspx?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples)
 
 # Resources 
 
-- **Product page:**   [Syncfusion® JavaScript Word Processor](https://www.syncfusion.com/javascript-ui-controls/js-docx-editor) 
+- **Product page:**   [Syncfusion® JavaScript (ES6) DOCX Editor](https://www.syncfusion.com/docx-editor-sdk/javascript-docx-editor?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Documentation:**   [Syncfusion® Word Processor](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es5/getting-started) 
+- **Documentation:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Documentation](https://help.syncfusion.com/document-processing/word/word-processor/javascript-es6/overview?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
-- **Online demo:**   [Syncfusion® Word Processor - Demo](https://ej2.syncfusion.com/javascript/demos/) 
+- **Online demo:**   [Syncfusion® JavaScript (ES6) DOCX Editor - Online demo](https://document.syncfusion.com/demos/docx-editor/javascript/#/material3/document-editor/default.html?utm_source=github&utm_medium=listing&utm_campaign=github-github-documenteditor-examples) 
 
 # Support and feedback 
 
