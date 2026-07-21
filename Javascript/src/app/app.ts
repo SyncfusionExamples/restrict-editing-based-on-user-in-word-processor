@@ -12,6 +12,7 @@ import { ColorPicker, ColorPickerEventArgs } from '@syncfusion/ej2-inputs';
 
 let hostUrl: string = 'https://ej2services.syncfusion.com/production/web-services/';
 
+
 let container: DocumentEditorContainer = new DocumentEditorContainer({ enableToolbar: true, height: '700px' });
 DocumentEditorContainer.Inject(Toolbar);
 container.serviceUrl = hostUrl + 'api/documenteditor/';
